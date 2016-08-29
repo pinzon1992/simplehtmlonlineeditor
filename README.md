@@ -1,5 +1,5 @@
 # simplehtmlonlineeditor
-This is a simple html online editor, similar to try it editor.
+This is a simple HTML editor, made in JavaScript and HTML, similar to Tryit editor.
 
 #DEMO
 
