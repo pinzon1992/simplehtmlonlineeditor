@@ -3,35 +3,24 @@
     "_id": "5cf03ce4a2d0df8284455787",
     "index": 0,
     "guid": "ad4b69a7-268a-42da-8b52-4bdde9e602db",
-    "isActive": false,
     "comment": "asdgdgdgdgd, hashahsahshas, \"the man\" "
   },
   {
     "_id": "5cf03ce4cea525b036e901c9",
     "index": 1,
     "guid": "b3f5fa9a-14a0-4ca6-ab6c-0d10b57d7c42",
-    "isActive": false,
     "comment": "asdgdgdgdgd, hashahsahshas, \"the man\" "
   },
   {
     "_id": "5cf03ce4376192e595b903de",
     "index": 2,
     "guid": "10021f67-2ef7-496c-bc3b-148d90db751a",
-    "isActive": false,
     "comment": "asdgdgdgdgd, hashahsahshas, \"the man\" "
   },
   {
     "_id": "5cf03ce4f33f6360f98c5578",
     "index": 3,
     "guid": "47f170ec-2a85-4254-bb8e-a0b3eedb277e",
-    "isActive": true,
-    "comment": "asdgdgdgdgd, hashahsahshas, \"the man\" "
-  },
-  {
-    "_id": "5cf03ce42c374892633660a2",
-    "index": 4,
-    "guid": "0ceb0915-8ea2-47d7-876c-86de3e045734",
-    "isActive": true,
     "comment": "asdgdgdgdgd, hashahsahshas, \"the man\" "
   }
 ]
